@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.heat-map {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.heat-map div {
+    margin: 10px;
+}
